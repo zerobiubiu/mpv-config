@@ -1,0 +1,15 @@
+# 不同步缓存
+cache/
+
+# 默认不跨设备同步播放进度
+watch_later/
+
+# 设备专属配置
+local.conf
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# 截图目录
+screenshots/
